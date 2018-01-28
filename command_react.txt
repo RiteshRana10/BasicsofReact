@@ -1,0 +1,6 @@
+//Script tag if u want to add react and dom and start build without installing it.
+  <script src="https://unpkg.com/react@16.0.0/umd/react.development.js"></script> 
+       <script src="https://unpkg.com/react-dom@16.0.0/umd/react-dom.development.js"></script> 
+
+npm init
+yarn add babel-preset-react@6.24.1 babel-preset-env@1.6.2
